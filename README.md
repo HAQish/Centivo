@@ -6,5 +6,4 @@ Build a simple Node.js Express API that connects to a MongoDB database and retri
 
  - I created a collection in MongoDB called `users` with random seed data
  - Finds by `id`
- - Filters by over 21
  - Error handling in API call
