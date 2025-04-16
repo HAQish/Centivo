@@ -1,0 +1,14 @@
+{
+  "name": "centivo-challenge",
+  "version": "1.0.0",
+  "description": "centivo challenge",
+  "main": "app.js",
+  "scripts": {},
+  "author": "habib",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2"
+  }
+}
